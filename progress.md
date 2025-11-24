@@ -6,8 +6,13 @@
 
 ## 已完成功能
 - [x] 验证与测试 (Backend Tests, Frontend Build)
-- [x] 文档更新 (walkthrough.md)
-- [x] UI 现代化 (Home, Admin, Article TOC)实施计划审批
+- [x] 文档更新 (walkthrough.md, README.md)
+- [x] UI 现代化 (Home, Admin, Article TOC)
+- [x] Markdown 支持 (渲染, 样式, 目录)
+- [x] 修复前端热更新问题 (marked 依赖)
+
+
+实施计划审批
 - [x] 后端环境搭建 (Flask, MySQL 配置)
 - [x] 数据库模型定义 (初步)
 

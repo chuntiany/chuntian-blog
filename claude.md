@@ -4,6 +4,7 @@
 - **Python (后端)**: 遵循 PEP 8 规范。函数/变量使用 `snake_case`（蛇形命名），类使用 `PascalCase`（帕斯卡命名）。
 - **JavaScript/Vue (前端)**: 遵循 Vue.js 风格指南。变量/函数使用 `camelCase`（驼峰命名），组件使用 `PascalCase`。
 - **注释**: 复杂逻辑需编写清晰的注释。函数和类应使用文档字符串 (docstrings)。
+- **UI 设计**: 保持现代简约风格。使用 `style.css` 中的 CSS 变量（如 `--primary-color`）以保持一致性。组件应优先使用 Flexbox/Grid 布局。
 
 ## Git 提交信息规范
 - 格式: `type(scope): subject`
