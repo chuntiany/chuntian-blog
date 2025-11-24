@@ -1,0 +1,1 @@
+import{_ as o,c as r,a,k as n}from"./index-Du8VEhpS.js";const s={};function t(c,e){return n(),r("div",null,[...e[0]||(e[0]=[a("h1",null,"Dashboard",-1),a("p",null,"Welcome to the admin dashboard.",-1)])])}const d=o(s,[["render",t]]);export{d as default};
